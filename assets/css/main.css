@@ -1,0 +1,24 @@
+
+.inicio{
+    background-color: rgb(210, 210, 240);
+    padding-top: 120px;
+    
+}
+
+.servicos{
+    background-color: rgb(129, 147, 159);
+    color: white;
+    padding-top: 75px;
+}
+
+footer{
+    background-color: #04305d;
+}
+
+footer a{
+    color: yellow;
+}
+
+footer a:hover{
+    color: white;
+}
